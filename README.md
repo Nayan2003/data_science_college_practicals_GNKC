@@ -1,2 +1,2 @@
 # data_science_college_practicals_GNKC
-this repository for all those student whos searching practicals 
+this repository for all those student whos searching practicals make sure this only for students whos learning TYBSC mathematics in Mumbai university and speacialy GURU nank khalsa college .....
